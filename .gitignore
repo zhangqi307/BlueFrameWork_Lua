@@ -27,3 +27,4 @@ sysinfo.txt
 /UnityVS.tolua.sln
 /Assets/Source/Generate/
 /.vs/
+/Assets/Lua/.gitignore
